@@ -314,18 +314,18 @@ li:hover {
     color: var(--dark);
     font-style: normal;
     position: absolute;
-
     border-right: none;
+    
   }
 
   #sub_title {
+    font-size: 15px;
     background-color: var(--light);
-    padding: 10px;
     box-shadow: var(--box_shadow);
     border-radius: var(--border_radius);
     margin-bottom: 50px;
-    width: 300px;
-    height: 50px;
+    width: 150px;
+    height: 30px;
     text-align: center;
     margin-right: 3%;
   }
@@ -336,9 +336,12 @@ li:hover {
     justify-content: flex-start;
     height: 400px;
     width: auto;
+    margin-right:20px;
 
   }
-
+.container{
+  margin-right: 28px;
+}
   .footer {
     display: flex;
     justify-content: space-evenly;
@@ -353,4 +356,13 @@ li:hover {
     border-radius: var(--border_radius);
     box-shadow: var(--box_shadow);
   }
+  footer{
+    margin-right:15px;
+    padding-bottom: 30px;
+  }
+
+.footer a {
+  font-size: x-small;
+  text-underline-offset: 6px;
+}
 }

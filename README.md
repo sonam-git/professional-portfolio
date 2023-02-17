@@ -22,7 +22,8 @@ I mostly used html semantic elements for the accesibility purpose, and use flexb
 ## CSS
 * Use of Flex box and it's properties.
 * Use of css variables for colors, width and border properties.
-* Use of media queries
+* Use of media queries.
+* Use of psuedo class.
 # Screenshots
 ![Screenshot 2023-02-17 at 12 38 58 AM](https://user-images.githubusercontent.com/89502092/219595176-90deb05c-720d-4cda-b18b-97b375966ded.png)
 

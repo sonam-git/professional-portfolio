@@ -27,5 +27,9 @@ I mostly used html semantic elements for the accesibility purpose, and use flexb
 # Screenshots
 ![Screenshot 2023-02-17 at 12 38 58 AM](https://user-images.githubusercontent.com/89502092/219595176-90deb05c-720d-4cda-b18b-97b375966ded.png)
 
+## GitHub URL
+  https://github.com/sonam-git/professional-portfolio
+## Deployed Live URL 
+  https://sonam-git.github.io/professional-portfolio/Links to an external site.
 # License
 N/A
